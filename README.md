@@ -12,6 +12,7 @@ This project shows a complete analysis of user's documents usage in terms of cha
 - You can start experimenting using this link once the folder runs: ``` http://localhost:3000/ ```
 
 ## Implementation Notes
+- Data from shared folder is imported in 'Home.jsx' which is the main component, and passed as props to its child components. Except for donut chart's data is included within the component as it is dependent on props passed to this component.
 ### Sidebar
 - Both brand logo and thumbs up were changed as only those replacements were found for better resolution (instead of taking screenshots of the original one).
 - Each Navlink routes to it's correct path.
