@@ -1,5 +1,5 @@
 # Documents Usage Dashboard
-this repo shows an analysis of user's documents usage in terms of charts. Implemented using ReactJs and styled using styled components.
+This project shows a complete analysis of user's documents usage in terms of charts. Implemented using ReactJs and styled using styled components.
 
 ## Screenshot
 ![screencapture-localhost-3000-2022-11-20-23_37_32](https://user-images.githubusercontent.com/50046177/202927468-3c789c04-cf7d-4b09-b9f9-41bd6ea7d744.png)
