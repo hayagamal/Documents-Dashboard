@@ -7,7 +7,7 @@ this repo shows an analysis of user's documents usage in terms of charts. Implem
 ## How to use
 - Clone the repo.
 - Run using Visual Studio Code "npm start".
-- You can start experimenting using this link once folder was run: ``` http://localhost:3000/ ```
+- You can start experimenting using this link once the folder runs: ``` http://localhost:3000/ ```
 
 ## Implementation Notes
 ### Sidebar
