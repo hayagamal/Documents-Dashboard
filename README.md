@@ -2,7 +2,8 @@
 This project shows a complete analysis of user's documents usage in terms of charts. Implemented using ReactJs and styled using styled components.
 
 ## Screenshot
-![yes](https://user-images.githubusercontent.com/50046177/202928483-cd4ad26f-b30f-43bc-aefa-a256fa7a53f6.png)
+![screencapture-localhost-3000-documents-2022-11-21-00_01_05](https://user-images.githubusercontent.com/50046177/202928572-46ccf0ee-1ff6-4b5b-b942-447906f499b3.png)
+
 
 
 ## How to use
