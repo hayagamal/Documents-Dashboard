@@ -10,7 +10,7 @@ This project shows a complete analysis of user's documents usage in terms of cha
 ## How to use
 - Clone the repo.
 - Run using Visual Studio Code "npm start".
-- You can start experimenting using this link once the folder runs: ``` http://localhost:3000/ ```
+- You can start experimenting using this link once the project runs: ``` http://localhost:3000/ ```
 
 ## Implementation Notes
 - Data from shared folder is imported in 'Home.jsx' which is the main component, and passed as props to its child components. Except for donut chart's data is included within the component as it is dependent on props passed to this component.
