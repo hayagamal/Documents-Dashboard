@@ -18,6 +18,6 @@ This project shows a complete analysis of user's documents usage in terms of cha
 - The correct calculations were done to show the storage percentage of each folder type corresponding to the total 128 Gigabytes available.
 -  Animations are added when hovering on each folder's data (scaling up to 1.1).
 ### Analytics
-- Fake data were put as options and series as actual data were not provided.
+- Fake data was put as options and series as actual data was not provided.
 
 
