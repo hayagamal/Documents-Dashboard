@@ -4,11 +4,10 @@ this repo shows an analysis of user's documents usage in terms of charts. Implem
 ## Screenshot
 ![screencapture-localhost-3000-2022-11-20-23_37_32](https://user-images.githubusercontent.com/50046177/202927468-3c789c04-cf7d-4b09-b9f9-41bd6ea7d744.png)
 
-??
 ## How to use
 - Clone the repo.
 - Run using Visual Studio Code "npm start".
-- You can start experimenting using this link once folder was run: ```text http://localhost:3000/ ```
+- You can start experimenting using this link once folder was run: ``` http://localhost:3000/ ```
 
 ## Implementation Notes
 ### Sidebar
